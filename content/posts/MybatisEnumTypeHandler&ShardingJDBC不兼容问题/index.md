@@ -1,8 +1,3 @@
----
-title: mybatisPlus结合sharding jdbc使用时出现的问题记录
-date: 2021-11-25
----
-
 # 背景
 
 使用mybatisplus提供的枚举序列化功能, 将枚举值映射为数据库值, 结合sharding jdbc使用时, 枚举值无法反序列化赋值到对象中
